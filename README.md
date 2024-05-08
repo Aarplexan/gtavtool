@@ -11,6 +11,7 @@ GTAVTool is a utility designed to enhance your gaming experience in Grand Theft 
 - **Toggle Communication**: Block the communication with GTAV Server (used for heist).
 - **Display Status Overlay**: Activate/Deactivate the overlay with communication status.
 - **Close GTAV**: Immediately close the game (used for casino wheel).
+- **Shortcut**: You can use **LCTRL + F1** to toggle on/off the communication with GTAV Server.
 
 ## How It Works
 
@@ -22,7 +23,6 @@ GTAVTool operates by intercepting communication between the game client and the 
 2. **Installation**: Unzip the files in a folder and start GTAVTool.exe in Administrator.
 3. **Activation**: Toggle the communication GTAVTool when starting a heist mission in GTAV.
 4. **Replay**: Upon completion of a heist mission, GTAVTool will block communication with the server, allowing for replay without losing rewards.
-5. **Shortcut**: Use **LCTRL + F1** to toggle on/off the communication with rockstar game server.
 
 ## How to Use the Replay Glitch:
 
