@@ -35,7 +35,9 @@ SOON
 
 ## VirusTotal
 
-Link to the virustotal check [link](https://www.virustotal.com/gui/file/c0dd141a5180b8d1e9e8ce38fbcc01f45be238c656e436cfba2e348d755560a1/detection)
+***GTAVTool does not hack or modify the game in any way. It does not alter any files within the game.***
+
+For verification, you can check the VirusTotal report [link](https://www.virustotal.com/gui/file/c0dd141a5180b8d1e9e8ce38fbcc01f45be238c656e436cfba2e348d755560a1/detection)
 
 ## Disclaimer
 
