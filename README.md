@@ -22,6 +22,7 @@ GTAVTool operates by intercepting communication between the game client and the 
 2. **Installation**: Unzip the files in a folder and start GTAVTool.exe in Administrator.
 3. **Activation**: Toggle the communication GTAVTool before starting a heist mission in GTAV.
 4. **Replay**: Upon completion of a heist mission, GTAVTool will block communication with the server, allowing for replay without losing rewards.
+5. **Shortcut**: Use **LCTRL + F1** to toggle on/off the communication with rockstar game server.
 
 ## Requirements
 
