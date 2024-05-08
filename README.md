@@ -46,4 +46,4 @@ Contributions to GTAVTool are welcome! Feel free to submit bug reports, feature 
 
 ## License
 
-GTAVTool is licensed under the [MIT License](LICENSE).
+GTAVTool is licensed under the [MIT License](https://github.com/Aarplexan/gtavtool/blob/main/LICENSE).
