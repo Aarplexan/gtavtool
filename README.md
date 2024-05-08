@@ -20,10 +20,21 @@ GTAVTool operates by intercepting communication between the game client and the 
 
 1. **Download**: Download the GTAVTool from the [release](https://github.com/Aarplexan/gtavtool/releases/download/v1.0.0/GTAVTool.zip).
 2. **Installation**: Unzip the files in a folder and start GTAVTool.exe in Administrator.
-3. **Activation**: Toggle the communication GTAVTool before starting a heist mission in GTAV.
+3. **Activation**: Toggle the communication GTAVTool when starting a heist mission in GTAV.
 4. **Replay**: Upon completion of a heist mission, GTAVTool will block communication with the server, allowing for replay without losing rewards.
 5. **Shortcut**: Use **LCTRL + F1** to toggle on/off the communication with rockstar game server.
 
+## How to Use the Replay Glitch:
+
+1. Begin a heist mission, whether solo or with others.
+2. Launch GTAVTool.exe.
+3. Toggle the communication with the tool at the start of the heist mission. You should see "INTERRUPTED" in red.
+4. Complete the heist as usual to receive your payout.
+5. Return to the GTAV Online world by switching to GTA V Story mode.
+6. While in GTA V Story mode, toggle the communication with the tool again. You should see "ESTABLISHED" in green.
+7. Connect to GTA V Online in a new session and force save by changing your character's outfit.
+8. Done! You should now have your money and be able to launch a new heist. Enjoy!
+   
 ## Requirements
 
 - Grand Theft Auto V (GTAV) installed on your system.
