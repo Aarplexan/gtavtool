@@ -30,9 +30,9 @@ GTAVTool operates by intercepting communication between the game client and the 
 2. Launch GTAVTool.exe.
 3. Toggle the communication with the tool at the start of the heist mission. You should see "INTERRUPTED" in red.
 4. Complete the heist as usual to receive your payout.
-5. Return to the GTAV Online world by switching to GTA V Story mode.
-6. While in GTA V Story mode, toggle the communication with the tool again. You should see "ESTABLISHED" in green.
-7. Connect to GTA V Online in a new session and force save by changing your character's outfit.
+5. After finishing the heist, return to GTA V Online and switch to Story mode.
+6. Once in Story mode, re-establish communication with the tool. Confirm "ESTABLISHED" in green.
+7. Reconnect to GTA V Online in a fresh session and ensure a save by altering your character's outfit.
 8. Done! You should now have your money and be able to launch a new heist. Enjoy!
    
 ## Requirements
