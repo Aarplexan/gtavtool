@@ -15,7 +15,7 @@ GTAVTool is a utility designed to enhance your gaming experience in Grand Theft 
 
 ## How It Works
 
-GTAVTool operates by intercepting communication between the game client and the Rockstar Game server. At the conclusion of a heist mission, it blocks the transmission of data to the server, allowing the game to treat the heist as if it were not completed. This enables players to replay the heist while retaining the associated rewards.
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TRZPeGCK26g/0.jpg)](https://www.youtube.com/watch?v=TRZPeGCK26g)
 
 ## Usage
 
@@ -39,10 +39,6 @@ GTAVTool operates by intercepting communication between the game client and the 
 
 - Grand Theft Auto V (GTAV) installed on your system.
 - Compatible with Windows operating system.
-
-## Video Tutorial
-
-SOON
 
 ## VirusTotal
 
