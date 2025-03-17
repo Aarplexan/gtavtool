@@ -58,7 +58,7 @@ For verification, you can check the **VirusTotal report** [here](https://www.vir
 Using this tool **may** violate the terms of service of GTA V and could result in penalties from Rockstar Games.  
 **Use at your own risk.** 🚨
 
-## 🤝 Contributing![Capture d'écran 2025-03-17 193128](https://github.com/user-attachments/assets/7a968c1d-7791-4503-8069-ff9b12c15073)
+## 🤝 Contributing!
 
 
 Contributions to **GTAVTool** are welcome! Feel free to submit:
