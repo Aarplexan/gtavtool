@@ -8,7 +8,7 @@
 
 ## 🚀 What's New in V2?
 
-- **Fixed Close Button**: Now correctly closes **GTA 5** and **GTA 5 Enhanced**.![Uploading image.png…]()
+- **Fixed Close Button**: Now correctly closes **GTA 5** and **GTA 5 Enhanced**.
 
 - **General Improvements**: Performance optimizations and minor bug fixes.
 
