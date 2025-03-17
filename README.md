@@ -1,59 +1,71 @@
-# GTAVTool
+# GTAVTool V2
 
 <div align="center">
-  <img src="https://github.com/Aarplexan/gtavtool/assets/72907341/91fee735-0470-427d-8cfc-eb08a05b9798" alt="Description of the image">
+  <img src="https://github.com/Aarplexan/gtavtool/assets/72907341/91fee735-0470-427d-8cfc-eb08a05b9798" alt="GTAVTool Logo">
 </div>
 
-GTAVTool is a utility designed to enhance your gaming experience in Grand Theft Auto V (GTAV). It facilitates the replay of heist missions by blocking communication between the game client and the Rockstar Game server at the end of a heist. This allows players to replay heists and still receive the in-game currency rewards.
+**GTAVTool** is a utility designed to enhance your gaming experience in *Grand Theft Auto V (GTAV)*. It facilitates the replay of heist missions by blocking communication between the game client and the Rockstar Game server at the end of a heist. This allows players to replay heists and still receive the in-game currency rewards.
 
-## Features
+## 🚀 What's New in V2?
 
-- **Toggle Communication**: Block the communication with GTAV Server (used for heist).
-- **Display Status Overlay**: Activate/Deactivate the overlay with communication status.
-- **Close GTAV**: Immediately close the game (used for casino wheel).
-- **Shortcut**: You can use **LCTRL + F1** to toggle on/off the communication with GTAV Server.
+- **Fixed Close Button**: Now correctly closes **GTA 5** and **GTA 5 Enhanced**.
+- **General Improvements**: Performance optimizations and minor bug fixes.
 
-## How It Works
+## ⭐ Features
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TRZPeGCK26g/0.jpg)](https://www.youtube.com/watch?v=TRZPeGCK26g)
+- **🔄 Toggle Communication**: Block communication with the GTAV server (used for heists).
+- **📊 Display Status Overlay**: Activate/Deactivate the overlay with connection status.
+- **❌ Close GTAV**: Instantly close the game (used for casino wheel) – **Now supports both GTA5 and GTA5 Enhanced!**
+- **⌨️ Shortcut**: Use **LCTRL + F1** to toggle on/off communication with the GTAV server.
 
-## Usage
+## 🎥 How It Works
 
-1. **Download**: Download the GTAVTool from the [release](https://github.com/Aarplexan/gtavtool/releases/download/v1.0.0/GTAVTool.zip).
-2. **Installation**: Unzip the files in a folder and start GTAVTool.exe in Administrator.
-3. **Activation**: Toggle the communication GTAVTool when starting a heist mission in GTAV.
-4. **Replay**: Upon completion of a heist mission, GTAVTool will block communication with the server, allowing for replay without losing rewards.
+[![Watch Video](https://img.youtube.com/vi/TRZPeGCK26g/0.jpg)](https://www.youtube.com/watch?v=TRZPeGCK26g)
 
-## How to Use the Replay Glitch:
+## 📥 Usage
 
-1. Begin a heist mission, whether solo or with others.
-2. Launch GTAVTool.exe.
-3. Toggle the communication with the tool at the start of the heist mission. You should see "INTERRUPTED" in red.
-4. Complete the heist as usual to receive your payout.
-5. After finishing the heist, return to GTA V Online and switch to Story mode.
-6. Once in Story mode, re-establish communication with the tool. Confirm "ESTABLISHED" in green.
-7. Reconnect to GTA V Online in a fresh session and ensure a save by altering your character's outfit.
-8. Done! You should now have your money and be able to launch a new heist. Enjoy!
-   
-## Requirements
+1. **Download**: Get the latest **GTAVTool V2** from the [releases page](https://github.com/Aarplexan/gtavtool/releases/tag/v2.0.0).
+2. **Installation**: Unzip the files into a folder and run **GTAVTool.exe** as **Administrator**.
+3. **Activation**: Toggle communication with GTAVTool when starting a heist mission in GTAV.
+4. **Replay**: Upon completing a heist, GTAVTool will block communication with the server, allowing you to replay without losing rewards.
 
-- Grand Theft Auto V (GTAV) installed on your system.
-- Compatible with Windows operating system.
+## 🔄 How to Use the Replay Glitch
 
-## VirusTotal
+1. **Start a heist mission**, either solo or with a group.
+2. **Launch GTAVTool V2**.
+3. **Toggle communication** using the tool at the start of the heist. `"INTERRUPTED"` should appear in **red**.
+4. **Complete the heist** as usual and receive your payout.
+5. **Return to GTA V Online** and switch to **Story mode**.
+6. **Re-establish communication** in the tool. `"ESTABLISHED"` should appear in **green**.
+7. **Reconnect to GTA V Online** in a fresh session and force a save (e.g., change your character's outfit).
+8. **Done!** You should now have your money and be able to start a new heist. Enjoy! 🎉
 
-***GTAVTool does not hack or modify the game in any way. It does not alter any files within the game.***
+## ⚙️ Requirements
 
-For verification, you can check the VirusTotal report [link](https://www.virustotal.com/gui/file/c0dd141a5180b8d1e9e8ce38fbcc01f45be238c656e436cfba2e348d755560a1/detection)
+- **Grand Theft Auto V (GTAV)** installed on your system.
+- **Windows operating system** (tested on Windows 10/11).
 
-## Disclaimer
+## 🛡️ VirusTotal
 
-GTAVTool is provided for educational and entertainment purposes only. The use of this tool may violate the terms of service of the game, and could result in penalties from the game developers. Use at your own risk.
+> **GTAVTool does not hack or modify the game in any way. It does not alter any files within the game.**
 
-## Contributing
+For verification, you can check the **VirusTotal report** [here](https://www.virustotal.com/gui/file/4aadce9cab332e02dec9da052132749c3198e154fef79807be5f9e175d5eb8fe).
 
-Contributions to GTAVTool are welcome! Feel free to submit bug reports, feature requests, or pull requests via the [repository's issue tracker](https://github.com/Aarplexan/gtavtool/issues).
+## ⚠️ Disclaimer
 
-## License
+**GTAVTool is provided for educational and entertainment purposes only.**  
+Using this tool **may** violate the terms of service of GTA V and could result in penalties from Rockstar Games.  
+**Use at your own risk.** 🚨
 
-GTAVTool is licensed under the [MIT License](https://github.com/Aarplexan/gtavtool/blob/main/LICENSE).
+## 🤝 Contributing
+
+Contributions to **GTAVTool** are welcome! Feel free to submit:
+- **🐛 Bug reports**
+- **🌟 Feature requests**
+- **🛠️ Pull requests**
+
+via the [repository's issue tracker](https://github.com/Aarplexan/gtavtool/issues).
+
+## 📜 License
+
+**GTAVTool** is licensed under the [MIT License](https://github.com/Aarplexan/gtavtool/blob/main/LICENSE).
