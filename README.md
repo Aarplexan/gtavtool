@@ -1,14 +1,15 @@
 # GTAVTool V2
 
 <div align="center">
-  <img src="https://github.com/Aarplexan/gtavtool/assets/72907341/91fee735-0470-427d-8cfc-eb08a05b9798" alt="GTAVTool Logo">
+  <img src="https://github.com/user-attachments/assets/02be1180-fdfe-4d65-9e89-a34747318eb0" alt="GTAVTool Logo">
 </div>
 
 **GTAVTool** is a utility designed to enhance your gaming experience in *Grand Theft Auto V (GTAV)*. It facilitates the replay of heist missions by blocking communication between the game client and the Rockstar Game server at the end of a heist. This allows players to replay heists and still receive the in-game currency rewards.
 
 ## 🚀 What's New in V2?
 
-- **Fixed Close Button**: Now correctly closes **GTA 5** and **GTA 5 Enhanced**.
+- **Fixed Close Button**: Now correctly closes **GTA 5** and **GTA 5 Enhanced**.![Uploading image.png…]()
+
 - **General Improvements**: Performance optimizations and minor bug fixes.
 
 ## ⭐ Features
@@ -57,7 +58,8 @@ For verification, you can check the **VirusTotal report** [here](https://www.vir
 Using this tool **may** violate the terms of service of GTA V and could result in penalties from Rockstar Games.  
 **Use at your own risk.** 🚨
 
-## 🤝 Contributing
+## 🤝 Contributing![Capture d'écran 2025-03-17 193128](https://github.com/user-attachments/assets/7a968c1d-7791-4503-8069-ff9b12c15073)
+
 
 Contributions to **GTAVTool** are welcome! Feel free to submit:
 - **🐛 Bug reports**
